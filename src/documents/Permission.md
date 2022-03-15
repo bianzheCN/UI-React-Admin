@@ -26,4 +26,3 @@ So for each user, there will be a array in the end to decide whether they are al
     }
 }
 ```
-
